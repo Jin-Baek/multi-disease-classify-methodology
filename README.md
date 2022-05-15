@@ -5,5 +5,5 @@ Development of multiple disease classification methodology considering various e
 
 ### File explained
 * Manual is provided with named __MDCM_Researchnote_jblee.pdf__
-* All R code are provided
-* All sample data, metadata, and analysis results are disclosed only to the number of people allowed. [Google drive](https://drive.google.com/drive/u/1/folders/1B7BIsiXrsfpjg2JOzUNUkhjhDa_85D3c)
+* All R code are provided in __source directory__
+* All sample data, metadata, and analysis results are only available to authorized personnel. [__Google drive__](https://drive.google.com/drive/u/1/folders/1B7BIsiXrsfpjg2JOzUNUkhjhDa_85D3c)
